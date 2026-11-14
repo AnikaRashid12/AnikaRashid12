@@ -92,7 +92,7 @@ A machine learning project focused on analyzing student data and predicting acad
 
 [View Repository](https://github.com/TanziaMehrin03/Student-Academic-Performance-Prediction)
 
-### 📊 GitHub Statistics
+
 
 ### 📊 GitHub Statistics
 
