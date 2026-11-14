@@ -94,7 +94,11 @@ A machine learning project focused on analyzing student data and predicting acad
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnikaRashid12&show_icons=true&theme=tokyonight)
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./images/userstats.svg" alt="Anika's GitHub Statistics" width="650">
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaRashid12&layout=compact&theme=tokyonight)
 
