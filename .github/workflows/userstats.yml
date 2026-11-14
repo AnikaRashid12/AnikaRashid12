@@ -1,0 +1,25 @@
+
+name: Generate GitHub Statistics
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats.svg
+          colors: dark
+          custom-title: "Anika's GitHub Statistics"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
