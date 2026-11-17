@@ -107,7 +107,7 @@ A machine learning project focused on analyzing student data and predicting acad
 
 - GitHub: [AnikaRashid12](https://github.com/AnikaRashid12)
 - Email: Available through my GitHub profile
-- Profile : https://anika-portfolio-theta.vercel.app/
+- Profile : https://anikarashid-profile.vercel.app/
 ---
 
 ⭐ Thanks for visiting my profile!
